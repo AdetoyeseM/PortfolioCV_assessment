@@ -16,7 +16,7 @@ GitHub Users: Stay connected with GitHub by viewing a list of GitHub users.
 
 Getting Started
 1. Clone the Repository:
-git clone https://github.com/yourusername/portfolio-cv-assessment.git
+git clone https://github.com/AdetoyeseM/PortfolioCV_assessment.git
 cd portfolio-cv-assessment
 
 2. Run the App:
