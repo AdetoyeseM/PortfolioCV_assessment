@@ -24,3 +24,17 @@ cd portfolio-cv-assessment
 2. Run the App:
 
 Make sure you have Flutter installed. If not, install it.
+
+3. Screenshots
+
+[url=https://postimg.cc/qgywtsnq][img]https://i.postimg.cc/qgywtsnq/error-screen-ss.png[/img][/url]
+
+[url=https://postimg.cc/H89b6t4t][img]https://i.postimg.cc/H89b6t4t/github-ss.png[/img][/url]
+
+[url=https://postimg.cc/ppvZKmYZ][img]https://i.postimg.cc/ppvZKmYZ/login-ss.png[/img][/url]
+
+[url=https://postimg.cc/jLvzNZjx][img]https://i.postimg.cc/jLvzNZjx/portfolio-ss.png[/img][/url]
+
+[url=https://postimg.cc/5jB59xdF][img]https://i.postimg.cc/5jB59xdF/project-ss.png[/img][/url]
+
+
