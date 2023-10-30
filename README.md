@@ -7,7 +7,9 @@ Features
 Login Screen: Start your journey by logging in with the default credentials.
 
 Default Email: testmail@gmail.com
+
 Default Password: Password1234@
+
 Dashboard: Explore your portfolio and navigate between the Portfolio and GitHub tabs.
 
 Portfolio Screen: Discover your professional profile, recent projects, and an option to view your resume.
